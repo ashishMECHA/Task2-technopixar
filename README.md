@@ -11,7 +11,14 @@ Ensure you have the following installed on your machine:
 *   [Node.js](https://nodejs.org/) (Version 18 or higher)
 *   [MongoDB](https://www.mongodb.com/) (Local installation or a remote Atlas cloud database connection string)
 
-### 2. Backend Setup
+### 2. Clone the Repository
+Clone the repository using Git and navigate into the project root directory:
+```bash
+git clone https://github.com/ashishMECHA/Task2-technopixar.git
+cd Task2-technopixar
+```
+
+### 3. Backend Setup
 1. Open your terminal and navigate to the backend directory:
    ```bash
    cd backend
@@ -32,7 +39,7 @@ Ensure you have the following installed on your machine:
    ```
    The backend server will run at `http://localhost:5000`.
 
-### 3. Frontend Setup
+### 4. Frontend Setup
 1. Open a new terminal window and navigate to the frontend directory:
    ```bash
    cd frontend
